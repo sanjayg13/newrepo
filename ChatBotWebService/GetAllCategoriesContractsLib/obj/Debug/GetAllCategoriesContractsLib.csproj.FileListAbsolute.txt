@@ -1,0 +1,44 @@
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\GetAllCategoriesContractsLib\bin\Debug\GetAllCategoriesContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\GetAllCategoriesContractsLib\bin\Debug\GetAllCategoriesContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.csprojAssemblyReference.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\GetAllCategoriesContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\GetAllCategoriesContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.csprojAssemblyReference.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\GetAllCategoriesContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\Swashbuckle.Core.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Web.Http.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\WebActivatorEx.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Web.Http.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.csproj.CopyComplete
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\GetAllCategoriesContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\GetAllCategoriesContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\GetAllCategoriesContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\Swashbuckle.Core.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Web.Http.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\WebActivatorEx.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Web.Http.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.csprojAssemblyReference.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.csproj.CopyComplete
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\GetAllCategoriesContractsLib\obj\Debug\GetAllCategoriesContractsLib.pdb

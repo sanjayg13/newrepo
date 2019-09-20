@@ -1,0 +1,75 @@
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\DeleteCustomerLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\DeleteCustomerLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\DeleteCustomerLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\ChatBotDBAccess.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\DeleteCustomerContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\EntityFramework.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\ChatBotDBAccess.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\ChatBotDBAccess.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\DeleteCustomerContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\EntityFramework.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.csprojAssemblyReference.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.csproj.CoreCompileInputs.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.csproj.CopyComplete
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.csprojAssemblyReference.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.csproj.CoreCompileInputs.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\ChatBotDBAccess.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\EntityFramework.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\ChatBotDBAccess.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\ChatBotDBAccess.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\EntityFramework.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.csproj.CopyComplete
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\Swashbuckle.Core.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Web.Http.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\WebActivatorEx.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Web.Http.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\ChatBotDBAccess.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\EntityFramework.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\Swashbuckle.Core.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Web.Http.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\WebActivatorEx.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\ChatBotDBAccess.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\ChatBotDBAccess.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\DeleteCustomerContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\EntityFramework.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Web.Http.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.csprojAssemblyReference.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.csproj.CoreCompileInputs.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.csproj.CopyComplete
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteCustomerLib\obj\Debug\DeleteCustomerLib.pdb

@@ -1,0 +1,75 @@
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\UpdateCustomerLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\UpdateCustomerLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\UpdateCustomerLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\ChatBotDBAccess.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\EntityFramework.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\UpdateCustomerConstractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\ChatBotDBAccess.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\ChatBotDBAccess.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\UpdateCustomerConstractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\EntityFramework.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.csprojAssemblyReference.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.csproj.CoreCompileInputs.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.csproj.CopyComplete
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.csprojAssemblyReference.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.csproj.CoreCompileInputs.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\ChatBotDBAccess.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\EntityFramework.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerConstractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\ChatBotDBAccess.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\ChatBotDBAccess.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerConstractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\EntityFramework.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.csproj.CopyComplete
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\Swashbuckle.Core.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Web.Http.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\WebActivatorEx.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerConstractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Web.Http.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\ChatBotDBAccess.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\EntityFramework.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\Swashbuckle.Core.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Web.Http.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerConstractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\WebActivatorEx.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\ChatBotDBAccess.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\ChatBotDBAccess.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerConstractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\UpdateCustomerConstractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\EntityFramework.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Web.Http.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.csprojAssemblyReference.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.csproj.CoreCompileInputs.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.csproj.CopyComplete
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\UpdateCustomerLib\obj\Debug\UpdateCustomerLib.pdb

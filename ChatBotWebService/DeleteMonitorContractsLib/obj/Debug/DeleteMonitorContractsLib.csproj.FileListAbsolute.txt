@@ -1,0 +1,44 @@
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteMonitorContractsLib\bin\Debug\DeleteMonitorContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteMonitorContractsLib\bin\Debug\DeleteMonitorContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.csprojAssemblyReference.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\DeleteMonitorContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\DeleteMonitorContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.csprojAssemblyReference.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\DeleteMonitorContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\Swashbuckle.Core.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Web.Http.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\WebActivatorEx.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Web.Http.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.csproj.CopyComplete
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\DeleteMonitorContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\DeleteMonitorContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\DeleteMonitorContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\Swashbuckle.Core.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Web.Http.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\WebActivatorEx.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Web.Http.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.csprojAssemblyReference.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.csproj.CoreCompileInputs.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.csproj.CopyComplete
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\DeleteMonitorContractsLib\obj\Debug\DeleteMonitorContractsLib.pdb

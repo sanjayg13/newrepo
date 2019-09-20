@@ -1,0 +1,989 @@
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EmployeeWebAPI.dll.config
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EmployeeWebAPI.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EmployeeWebAPI.pdb
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\csc.exe
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\csc.exe.config
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\csc.rsp
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\csi.exe
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\csi.exe.config
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\csi.rsp
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.AppContext.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Console.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\vbc.exe
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\vbc.exe.config
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\vbc.rsp
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\Antlr3.Runtime.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EmployeeDataAccess.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EntityFramework.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EntityFramework.SqlServer.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\Newtonsoft.Json.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Net.Http.Formatting.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Helpers.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Http.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Http.WebHost.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Mvc.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Optimization.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Razor.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\WebGrease.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EmployeeDataAccess.pdb
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EmployeeDataAccess.dll.config
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EntityFramework.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\EntityFramework.SqlServer.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\Newtonsoft.Json.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Net.Http.Formatting.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Helpers.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Http.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Http.WebHost.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Mvc.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Optimization.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.Razor.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\Antlr3.Runtime.pdb
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csprojAssemblyReference.cache
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CoreCompileInputs.cache
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CopyComplete
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.dll
+C:\DoTNET_Training\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.pdb
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EmployeeWebAPI.dll.config
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EmployeeWebAPI.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EmployeeWebAPI.pdb
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csc.exe
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csc.exe.config
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csc.rsp
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csi.exe
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csi.exe.config
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csi.rsp
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.AppContext.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Console.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\vbc.exe
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\vbc.exe.config
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\vbc.rsp
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Antlr3.Runtime.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EmployeeDataAccess.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EntityFramework.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EntityFramework.SqlServer.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Newtonsoft.Json.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Http.Formatting.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Helpers.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Http.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Http.WebHost.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Mvc.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Optimization.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Razor.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\WebGrease.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EmployeeDataAccess.pdb
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EmployeeDataAccess.dll.config
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EntityFramework.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EntityFramework.SqlServer.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Newtonsoft.Json.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Http.Formatting.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Helpers.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Http.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Http.WebHost.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Mvc.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Optimization.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Razor.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Antlr3.Runtime.pdb
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csprojAssemblyReference.cache
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CoreCompileInputs.cache
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CopyComplete
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.dll
+C:\DoTNET_Training\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EmployeeWebAPI.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EmployeeWebAPI.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EmployeeWebAPI.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csc.exe
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csc.exe.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csc.rsp
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csi.exe
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csi.exe.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\csi.rsp
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Console.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\vbc.exe
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\vbc.rsp
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EntityFramework.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Helpers.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Http.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Mvc.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Optimization.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Razor.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\WebGrease.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EntityFramework.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Helpers.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Http.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Mvc.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Optimization.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.Razor.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csprojAssemblyReference.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CopyComplete
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\ChatBotDBAccess.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\ChatBotDBAccess.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\ChatBotDBAccess.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\netstandard.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.AppContext.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Collections.Concurrent.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Collections.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Collections.Specialized.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.ComponentModel.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Console.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Data.Common.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Diagnostics.Process.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Drawing.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Globalization.Calendars.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Globalization.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Globalization.Extensions.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.Compression.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.FileSystem.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.Pipes.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Linq.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Linq.Expressions.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Linq.Parallel.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Linq.Queryable.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Http.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.NameResolution.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Ping.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Requests.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Security.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.Sockets.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Net.WebSockets.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.ObjectModel.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Reflection.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Reflection.Extensions.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Reflection.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Resources.Reader.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Resources.Writer.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.Extensions.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.Handles.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.Numerics.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Security.Claims.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Security.Principal.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Security.SecureString.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Text.Encoding.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Threading.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Threading.Overlapped.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Threading.Tasks.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Threading.Thread.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Threading.Timer.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.ValueTuple.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Xml.XDocument.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Xml.XPath.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetSeriesLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\IGetSeriesContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Unity.Abstractions.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Unity.Configuration.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Unity.Container.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetSeriesLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetSeriesLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\IGetSeriesContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\IGetSeriesContractsLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Unity.Abstractions.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Unity.Configuration.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\Unity.Container.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetModelContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetModelLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetModelContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetModelLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetModelLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetAllCategoriesContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetAllCategoriesLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetAllCategoriesContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetAllCategoriesLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetAllCategoriesLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnSizeContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnSizeLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnSizeContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnSizeLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnSizeLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilityContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilityLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilityContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilityLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\GetMonitorOnPortabilityLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\ProductQuestionContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\ProductQuestionLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\ProductQuestionContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\ProductQuestionLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\ProductQuestionLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddCustomerContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddCustomerLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddCustomerContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddCustomerLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddCustomerLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateCustomerConstractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateCustomerLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateCustomerConstractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateCustomerLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateCustomerLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteCustomerContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteCustomerLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteCustomerContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteCustomerLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteCustomerLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddMonitorContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddMonitorLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteMonitorContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteMonitorLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateMonitorContractsLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateMonitorLib.dll
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddMonitorContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddMonitorLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\AddMonitorLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteMonitorContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteMonitorLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\DeleteMonitorLib.dll.config
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateMonitorContractsLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateMonitorLib.pdb
+C:\Users\320066952\chatbot\ChatBot_CaseStudy\MonitorsChatBotWebService\WCFApps\EmployeeWebAPI\bin\UpdateMonitorLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csprojAssemblyReference.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\EmployeeWebAPI.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\EmployeeWebAPI.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\EmployeeWebAPI.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csc.exe
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csc.exe.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csc.rsp
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csi.exe
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csi.exe.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csi.rsp
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Console.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\vbc.exe
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\vbc.rsp
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\netstandard.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.AppContext.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Collections.Concurrent.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Collections.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Collections.Specialized.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.ComponentModel.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Console.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Data.Common.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Process.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Drawing.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Globalization.Calendars.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Globalization.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Globalization.Extensions.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.Compression.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.FileSystem.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.Pipes.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Linq.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Linq.Expressions.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Linq.Parallel.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Linq.Queryable.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Http.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.NameResolution.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Ping.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Requests.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Security.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Sockets.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.WebSockets.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.ObjectModel.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Reflection.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Reflection.Extensions.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Reflection.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Resources.Reader.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Resources.Writer.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Extensions.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Handles.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Numerics.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Claims.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Principal.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Security.SecureString.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Text.Encoding.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Overlapped.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Tasks.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Thread.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Timer.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.ValueTuple.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XDocument.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XPath.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\ChatBotDBAccess.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\EntityFramework.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetModelContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetModelLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetSeriesLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\IGetSeriesContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Helpers.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Http.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Mvc.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Optimization.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Razor.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Unity.Abstractions.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Unity.Configuration.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Unity.Container.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerConstractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorContractsLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorLib.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\WebGrease.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\ChatBotDBAccess.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\ChatBotDBAccess.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetModelContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetModelLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetModelLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetSeriesLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetSeriesLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\IGetSeriesContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\IGetSeriesContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerConstractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorContractsLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorLib.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\EntityFramework.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Helpers.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Http.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Mvc.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Optimization.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Razor.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Unity.Abstractions.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Unity.Configuration.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Unity.Container.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CopyComplete
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\Swashbuckle.Core.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\WebActivatorEx.dll
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetModelContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionContractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerConstractsLib.dll.config
+C:\Users\320050763\OneDrive - Philips\Documents\My Received Files\ChatBotWebService\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\EmployeeWebAPI.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\EmployeeWebAPI.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\EmployeeWebAPI.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csc.exe
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csc.exe.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csc.rsp
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csi.exe
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csi.exe.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\csi.rsp
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Console.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\vbc.exe
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\vbc.rsp
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\netstandard.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.AppContext.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Collections.Concurrent.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Collections.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Collections.Specialized.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.ComponentModel.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Console.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Data.Common.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Process.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Drawing.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Globalization.Calendars.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Globalization.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Globalization.Extensions.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.Compression.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.FileSystem.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.Pipes.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Linq.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Linq.Expressions.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Linq.Parallel.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Linq.Queryable.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Http.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.NameResolution.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Ping.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Requests.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Security.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Sockets.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.WebSockets.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.ObjectModel.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Reflection.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Reflection.Extensions.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Reflection.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Resources.Reader.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Resources.Writer.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Extensions.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Handles.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Numerics.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Claims.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Security.Principal.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Security.SecureString.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Text.Encoding.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Overlapped.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Tasks.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Thread.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Timer.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.ValueTuple.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XDocument.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XPath.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\ChatBotDBAccess.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\EntityFramework.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetModelContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetModelLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetSeriesLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\IGetSeriesContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Swashbuckle.Core.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Helpers.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Http.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Mvc.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Optimization.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Razor.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Unity.Abstractions.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Unity.Configuration.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Unity.Container.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerConstractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorContractsLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorLib.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\WebActivatorEx.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\WebGrease.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddCustomerLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\AddMonitorLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\ChatBotDBAccess.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\ChatBotDBAccess.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteCustomerLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\DeleteMonitorLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetAllCategoriesLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetModelContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetModelContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetModelLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetModelLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilityLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnPortabilitySizeLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetMonitorOnSizeLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetSeriesLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\GetSeriesLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\IGetSeriesContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\IGetSeriesContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\ProductQuestionLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerConstractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerConstractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateCustomerLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorContractsLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorContractsLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorLib.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\UpdateMonitorLib.dll.config
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\EntityFramework.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Helpers.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Http.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Mvc.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Optimization.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.Razor.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Unity.Abstractions.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Unity.Configuration.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Unity.Container.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csprojAssemblyReference.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csproj.CopyComplete
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.dll
+C:\Users\320063801\Downloads\Chatbot_cAseStudy2-master\Chatbot_cAseStudy2-master\ChatBotWebService\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.pdb
