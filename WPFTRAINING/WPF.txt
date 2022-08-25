@@ -1,0 +1,75 @@
+WPF stands for Windows Presentation Foundation.
+It is the GUI based Application development that runs on Windows Platform: OS as well as Devices.
+Targeted on new Windows Platforms since Windows 7.
+Windows programming is of 2 types: Win32 API and DirectX.
+Win32 API is for apps that execute on 32 bit platforms of Windows.
+using APIs written in C programming language(Till Winxp).
+Since Windows vista(Extended to Windows 7) a new GUI Development came into existence with Integration of 
+DirectX, a GUI based APIs for Game Development.
+WPF is a mix of Win32 and DirectX to be developed in 64bit Windows Platforms.
+For old Apps, U can go for WinForms and for new Apps U can go for WPF.
+WPF uses a XML Based language called XAML(ZAMMEL) to develop the GUIs.These GUIs are built to be device independent.
+WPFs first version came in 2008 as part of .NET 3.0v.
+This was first of its kind in UI development for developing APPs on device independent manner.
+A web version of WPF was provided as a part of SilverLight(MS's version of Flash).
+With WPF U get:
+A new way of GUI Development.
+Binding features of binding the data with UI Components.
+User interactive Apps with Rich UI.
+Styles similar to CSS of web Applications.
+Apps have a new way of Event Handling which are robust and easy to develop.
+
+-------------------------------------------------------------------------------------------------
+ARCHITECTURE:
+
+Windows OS is made of 3 Dlls: user32, Kernel32 and GDI32 dlls.
+They are responsible for security, User support, Processes , Threads, Sockets and other OS based activities and GUI development using APIs of GDI32.Dll.
+Along with it, for Game related Programs MS released DirectX based on COM ( Component OBject Model) which used a hardware callled Graphic Card to accelerate the Application execution.This used to boost up the speed of the game with rich graphic support, but was not suited to run muliple apps together that is a feature of every desktop based App.
+with WPF, MS cmbined WinForms features and DirectX features into an unmanaged DLL called MILCORE.Dll(MEDIA integration Layer Core).
+The Milcore was combining the features of DirectX , GDI32 and many Codecs required for executing graphical and Image based Technologies.
+
+The Presentation Core library along with WindowsBase.dll will be responsible for converting the Unmanaged Components of Milcore to the Managed Environment Components.
+
+The Presentaion Framework contain the ready to use Components both GUI as well as NON-GUI that 
+
+
+
+-------------------------------------------------------------------------------------------------------
+XAML:
+1. An xml based language called extensible application markup language pronounced as zammel.
+2. Events is written in a c# based file referred as code - behind file.
+3. xaml represents entities in the form of tags. All app based entities can be represented thro xaml.
+4. UR App begins with the Entrypoint called App.Xaml. StartUpUri will specify the window to start Ur App.
+5. Wpf components are of 2 types : content elements and conatainer elements.
+Content Elemnets are those that have a property called content in them which tells what element has in it.
+Container elements are used to contain other elements within it. 
+content elements can have only one element in it.
+eg: window,Button
+
+StackPanel: Allows the elements to be placed obe beside another or below based on orientation
+GridPanel : it makes ur ui into a table similar to grid. here the container will be divided into rows n columns. Rows and Columns divide the window and elements are placed in appropriate row n column index frm 0.
+Rows are defined under RowDefinitions and columns are defined under columndefinitions.
+U could wild characters to specify default width and height of each cell within the grid.
+U should fisrt define the rows and colums and then place elements throw index.
+This is the one that makes the alignment of the elements within the window.
+controls have different kinds of properties in WPF
+Attached props are one which are added to property of the control after it is placed inside another control
+and the control will not get the property otherwise.
+
+-----------------------------------------------------------------------------
+Resources are extended files that r used to enhance look and feel of Application.
+Commands are resources that are used to provide a common set of Shortcut keys that r available on all windows based Applications.
+There are 4 types of commands:
+1. Application commands : common among all windows apps Save,Open, New.
+2. Navigation commnads: History,Next,Previous, Clear related to wep apps and browsers.
+3. Media commmands: Play,Pause,Seek,Forward.
+4. custom commands : classes that implement icommand interface or its derivatives to be used inside ur Application in a customized manner,
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,59 @@
+﻿<Window x:Class="SampleWpfApp.DataTriggers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:model="clr-namespace:SampleWpfApp.Models"
+        mc:Ignorable="d"
+        Title="DataTriggers" Height="450" Width="800">
+    <!--StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <CheckBox Name="ckSample" Content="Hello Data"/>
+        <TextBlock HorizontalAlignment="Center" Margin="20" FontSize="40">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Text" Value="No"/>
+                    <Setter Property="Foreground" Value="Red"/>
+
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=ckSample, Path=IsChecked}" Value="True">
+                            <Setter Property="Text" Value="Yes!!!!"/>
+                            <Setter Property="Foreground" Value="Green"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+    </><-->
+    <Window.Resources>
+        <model:StudentDatabase x:Key="students"/>
+        <model:MarksConverter x:Key="myconverter"/>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Margin="2">
+            <ListBox Margin="2" ItemsSource="{Binding Source={StaticResource students}, Path=AllStudents}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <!--DataTemplate.Triggers>
+                            <DataTrigger Binding="{Binding Path=Marks, Converter ={StaticResource myconverter}}" Value="Red">
+                                <Setter Property="ListBoxItem.Foreground" Value="Green"/>
+                                <Setter Property="ListBoxItem.Background" Value="Red"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding Path=Marks, Converter ={StaticResource myconverter}}" Value="Yellow">
+                                <Setter Property="ListBoxItem.Foreground" Value="Red"/>
+                                <Setter Property="ListBoxItem.Background" Value="Green"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding Path=Marks, Converter ={StaticResource myconverter}}" Value="Green">
+                                <Setter Property="ListBoxItem.Foreground" Value="Blue"/>
+                                <Setter Property="ListBoxItem.Background" Value="Green"/>
+                            </DataTrigger>
+                        <-->
+                        <StackPanel>
+                            <TextBlock Background="{Binding Path=Marks,
+                                Converter={StaticResource myconverter}}" Text="{Binding StudentName}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Window>
