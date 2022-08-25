@@ -1,0 +1,35 @@
+<!-- <div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <h3>i am App Componet</h3>
+      <hr>
+<app-servers></app-servers>
+      
+    </div>
+  </div>
+</div> -->
+
+<!-- <div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <label>User Name</label>
+      <input type="text" class="form-control" [(ngModel)]="Username">
+      <p>{{Username}}</p>
+      <button *ngIf="Username!==''" class="btn btn-primary" (click)="onResetUsername()">Reset Username</button>
+    </div>
+  </div>
+</div> -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <button class="btn btn-primary" (click)="ToggleDisplay()">Display Details</button>
+      <p *ngIf="displayDetails"> I am displaying something</p>
+      <!-- <p [ngStyle]={background-color:getBackground(),color:getColor()} *ngFor="let log of logs"></p> -->
+      <div *ngFor="let logItem of logs;let i = index"
+       [ngStyle]="{backgroundColor:i >= 5? 'blue':'transparent'}"
+        [ngClass]="{'white-text': i >=5}">{{logItem}} 
+    </div>
+    </div>
+  </div>
+  </div>
