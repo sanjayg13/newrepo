@@ -1,0 +1,244 @@
+       C/C++
+         <-- PRE-PROCESSOR 
+   Expanded C/C++ code
+       |<-- COMPILER
+     object code (.obj)
+       |<-- LINK/BUILD 
+  .LIB->
+       |
+    Executable file (.EXE)
+-------------------------------------------------------
+Every Executable file has HEADER-INFO, The format of this information varies with O/S
+
+MICROSOFT O/S : PE format  [Portable executable file format]
+UNIX O/S      : COFF  [Common object file format]
+LINUX O/S     : ELF  [Executable linkable format]
+-----------------------------------------------------------
+MEMORY LAYOUT OF A PROCESS:-
+
+
+int z;
+
+void fun()
+{
+  char *p1 ="Altair";
+  char *p2 ="Bengaluru";
+  int x;
+  int *q =(int *)malloc(sizeof(int));
+  //..
+  free(q);
+  char *p3 ="Altair";
+  //...
+}
+------------------------------------------------------------
+ACTIVATION RECORDS:-
+
+void Add(int x, int y)   //CALLED
+{
+  //....
+}
+
+void main()       //CALLEE or CALLER
+{
+  //...
+  Add(10,20);
+  //...
+}
+-----------------------------------------------
+CALLING CONVENTION:-
+	It is a programming language specific feature applicable to functions.
+
+
+PASCAL: Support's a calling convention called '__pascal'.
+
+	- Pushing of the arguments onto the activation record is done from LEFT-TO-RIGHT order.
+	- The de-allocation of the CALLED functions stack-frame is the responsiblity of the CALLED himself.
+	- Supports fixed-parameter design only.
+------------------------------------
+
+Eg:    int printf(const char*p, ...);
+
+C : Supports a calling convention called '__cdecl', also called 'C declaration'.
+
+	- Pushing of the arguments onto the activation record is done from RIGHT-TO-LEFT order.
+	- The de-allocation of the CALLED functions stack-frame is the responsiblity of the CALLEE and not the CALLED.
+	-Supports both fixed-parameter as well as varible-parameter design.
+
+
+
+
+void main()
+{
+  //..
+  printf("a =%d, b=%d",a,b);
+}
+
+-----------------------------
+C++: Supports several calling conventions...
+	a) __cdecl    b) __stdcall   c) __thiscall    d) __fastcall
+
+
+__stdcall: Also called standard call calling convention, it is a hybrid feature of both '__cdecl' & '__pascal'.
+
+	- Pushing of the arguments onto the activation record is done from RIGHT-TO-LEFT order.
+	- The de-allocation of the CALLED functions stack-frame is the responsiblity of the CALLED himself.
+	- Supports fixed-parameter design only.
+
+
+c) __thiscall: It is a calling convention specific to class member functions.
+--------------------------------------------
+MICRSOFT COMPILER
+
+ void  __cdecl  Add(int, int);
+
+ void __cdecl  Add(int x, int y)
+ {
+   //..
+ }
+
+GCC compiler
+
+void Add(int, int) __attribute__ ((cdecl));
+
+
+void Add(int, int) __attribute__ ((cdecl))
+{
+  //...
+}
+
+
+
+
+
+------------------------------------
+Why OO technology ?
+
+	It should be possbile for us to design and develop applications that can be very easily maintained, It should also be possible for us to give time-dound delivery and cost-effective solution.
+
+-----------------------------------------------
+C++ as an OO language supports 4 broad pillars:-
+
+1) POLYMORPHISM
+	a) COMPILE-TIME (EARLY BINDING, STATIC BINDING)
+	b) RUN-TIME (LATE BINDING, DYNAMIC BINDING)
+2) ENCAPSULATION
+3) INHERTIANCE 
+4) ABSTRACTION
+---------------------------------------------
+NAMING CONVENTION:
+	By default every function in a C++ program code will get decorated, no matter we overload them or not. This default feature is also called "C++ naming convention".
+
+	extern "C++" directive (C++ naming convention) - prompts the C++ compiler to decorate the function, and thereby facilitate overloading.
+
+	extern "C" directive (C naming convention) - prompts the C++ compiler to not decorate the function, and thereby does not facilitate overloading.
+
+NOTE: 'main' cannot be overloaded, as it is using "C" naming convention.
+
+
+extern "C" void fun(){ }                  _fun
+extern "C" void fun(int x){ }             _fun  -- ambiguity error
+
+--------------------------------------------
+
+HEADER FILE
+
+extern "C"
+{
+void fun1();
+void fun2();
+void fun3();
+//.....
+}
+
+.CPP FILE
+
+extern "C"
+{
+
+void fun1(){ }
+void fun2(){ }
+void fun3(){ }
+  //...
+
+}
+
+---------------------------------------------------------------
+Default arguments:-
+	Arguments that the function would prefer to take as input(s), when no suitable input(s) is provided by the consumer.
+-----------------------------------------------------
+INLINE FUNCTION:-
+	A request made to the compiler to subsitute the business-logic in the place of function-call statement. If request is honoured, then it would increase the execution speed of the application, but would compromise on the size of the executable file.
+
+-----------------------------------------------
+REFERENCE TYPES:-
+	It is a type that would act as an alias to an already existing entity.
+
+
+int a;   //value type variable
+int *p;  //pointer type variable
+int &r = a;   // 'r' is another name for 'a'
+-------------------------
+	A reference type must and should be aliased at the point of declaration itself.
+
+	int a;
+	int &ref = a;  //ok
+
+	But, the following is invalid,
+	int a;
+        int &ref;   //ERROR
+        ref = a;
+--------------------
+	In C++98/2003 standards we cannot have an array of reference types either.
+	Thereby we cannot use indexing with reference types
+------------------------------
+CONST CORRECTNESS:-
+
+int &ref = 100;        //ERROR
+const int& ref = 100;  //ok
+------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

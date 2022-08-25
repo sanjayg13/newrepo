@@ -1,0 +1,247 @@
+STATIC DATA AND STATIC METHODS:
+	
+
+class CA
+{
+public:
+  void count();          // void count(CA* const this);
+};
+
+class CA
+{
+public:
+  static void count();   // void count();
+};
+
+	- A member function can be qualified to be 'static' only if it deals with static data members of the class.
+
+	- Such member functions can be called directly without an object.
+
+	- Static member functions do not support 'this' pointer.
+----------------------------------------------------------------------------
+MUTABLE MEMBERS:-
+	A qualifier applied to class data members, that facilitate a partial change to the state of a const object.
+
+
+class screen
+{
+  private:
+    mutable  int curR, curC;
+    int rows, columns;
+public:
+    //...
+};
+
+//DOS USER
+const screen s1(25,80,1,1);
+
+//WINDOWS user
+screen s2(30,40,1,1);
+--------------------------------------------------------------------
+
+OPERATOR OVERLOADING:-
+
+	Try and extend the capabilities of the pre-defined operators, that are primarily designed to work only on standard types to also work on user-defined (class) types.
+
+
+int a,b,c;
+c=a+b;
+
+CA obj1, obj2, obj3;
+
+obj3 = obj1 + obj2;  //error
+---------------------------------------------
+obj3 = obj1 + obj2;    // obj3 = obj1.operator +(obj2);
+                          obj3 = temp;    // obj3.operator = (temp);
+
+obj1 = obj1 + obj2;    // obj1 = obj1.operator +(obj2);
+                          obj1 = temp;    // obj1.operator = (temp);
+
+obj1+=obj2;            // obj1.operator +=(obj2);
+
+
+If Binary operators like +, * etc are overloaded in a class, then it is also recommended to overload  +=, /=, *=  operators  as well.
+
+
+
+-----------------------------------------
+UNARY OPERATOR OVERLOADING:-
+
+  For eg:  ++  -- *  &
+
+int a=10,b;
+
+//PREFIX
+b = ++a;         // a=11  b=11
+
+
+//POSTFIX
+b = a++;         // a=11   b=10
+
+class CA
+{
+public:
+  CA& operator ++();     //prefix
+  CA operator ++(int);   //postfix
+};
+
+
+obj2 = ++obj1;   // obj2 = obj1.operator ++();
+
+obj2 = obj1 ++;   //obj2 = obj1.operator ++(int);
+------------------------------------------------------------------
+STREAM OPERATOR OVERLOADING:-
+
+int a;
+cin >> a;          // cin.operator >>(a);
+
+	'cin' is a global object of ISTREAM class, and 'operator >>' is an member function of ISTREAM class.
+
+class istream
+{
+public:
+   istream& operator >>(int);
+   istream& opreator >>(float);
+   //etc.. for all standard types
+};
+
+************************************
+cout << a;    // cout.operator <<(a);
+
+	'cout' is a global object of OSTREAM class, and 'operator <<' is a member function of OSTREAM class.
+
+class ostream
+{
+public:
+   ostream& operator <<(int);
+   ostream& opreator <<(float);
+   //etc.. for all standard types
+};
+
+-----------------------------
+CA obj1;
+cin >> obj1;          // cin.operator >>(obj1);  //ERROR, as no suitable member
+
+
+cout << obj1;          // cout.operator <<(obj1);
+//-----------------------------
+
+If compiler is looking for a suitable global, then
+
+CA obj1;
+cin >> obj1;          //  operator >>(cin, obj1);  --> operator >>(istream&, CA&);
+
+
+cout << obj1;          //  operator <<(cout, obj1); --> operator <<(ostream&, CA &);
+
+------------------------------------------------------------------
+CONVERSION FUNCTIONS:-
+	Functions taking data-type as their names, and incidentally facilitate in a conversion operation are all called conversion functions.
+
+class CA
+{
+private:
+  //..
+public:
+  CA(){ }
+  explicit CA(int) { }
+  void operator =(int z){ } 
+  //..
+  operator int();
+};
+
+
+int main()
+{
+   CA obj1;
+   int x;
+   //...
+   obj1 = x;    // obj1.operator =(x);
+
+   x = obj1;
+}
+----------------------------------------------------
+DYNAMIC MEMORY ALLOCATION IN C++:-
+
+
+   C               C++
+ malloc        new, new(nothrow)
+ calloc        new[]
+ realloc       --
+ free          delete. delete[]
+----------------------------------------------
+class CB
+{
+private:
+  CA* p;
+public:
+  //...
+
+  CA* GetCAaddress()
+  {
+     return p;
+  }
+  CA* operator &()
+  {
+     return p;
+  }
+  CA* operator ->()
+  {
+     return p;
+  }
+
+ CA& operator *()
+  {
+     return *p;
+  }
+};
+
+
+int main()
+{
+  CB obj1;
+  CA*q = obj1.p;   //ERROR, cannot access private member
+
+  CA* q = obj1.GetCAaddress();
+
+  CA* q = &obj1;   // CA* q = obj1.operator &();
+  obj1->print();
+
+  (*obj1).print();
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

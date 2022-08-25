@@ -1,0 +1,314 @@
+METAPROGRAMMING:-
+	It means 'writing code to generate code'. A very powerful feature in C++ that can be realised with the help of generic or template programming.
+	Here the templates are broadly 2 kinds....
+	a) FUNCTION TEMPLATES	
+	b) CLASS TEMPLATES
+
+
+template<typename T> void Add(T a, T b)
+{
+   
+}
+----------------------------------------------------------
+C - Structured approach:- [FUNCTION CENTRIC APPROACH]
+
+	- Lays more emphasis on FUNCTIONS rather than the data.
+
+C++ - OO approach - [DATA CENTRIC APPROACH]
+
+	- Lays more emphasis on DATA rather than the FUNCTIONS.
+-------------------------
+In the structured world, we say data is not safe.
+
+
+struct EMPLOYEE
+{
+  int empid;
+  char empname[25]
+  float salary;
+};
+
+struct STUDENT
+{
+  int stdid;
+  char sname[25];
+  float marks;
+};
+
+struct EMPLOYEE E1;          //structure variables
+sturct STUDENT S1;
+//...
+//...
+
+S1.marks = E1.salary;
+-----------------------------------
+EXTENDED STRUCT:- Apart from having variables as members, now it can also have functions as its member.
+
+struct EMPLOYEE
+{
+//attributes , data members
+  int empid;
+  char empname[25]
+  float salary;
+//member functions, methods or behaviours
+  void read(){ }
+  void write(){ }
+};
+
+EMPLOYEE E1;  //An object - Apart from having a STATE, it also has a well-defined                                BEHAVIOUR.
+
+----------------------------------------------
+
+Difference between a C struct and a C++ struct:-
+
+
+C struct:
+	- Can only have variables (value type or pointer type) as its member
+	- No member or variable can be qualified with any extended qualifier viz..
+             static. const or volatile.
+	- Does not prove support for access-specifiers.
+	- The struct cannot be empty;
+
+C++ struct:
+	- Can have both variables as well as functions as its member
+	- Any member may be qualified with extended qualifiers viz.. static, const etc.,
+	- Does provide support for access-specifiers lke - public, private and protected.
+	- Supports empty struct.
+
+-----------------------------------------------------------
+struct CA
+{
+   int a,b;
+   void input(){ }
+   void print() { }
+};
+
+C++ object / BJARNE model:
+	The size of the object would be influenced only by the number of non-static data members of the plan, where as the functions shall be a single copy on the code segment and would be shared by all objects of the same type.
+
+CA obj1, obj2;
+-----------------------------------
+
+class CA
+{
+public:
+  void input(int x, int y)  // void input(CA* const this, int x, int y)
+  {....}
+};
+
+
+CA obj1;
+obj1.input(10,20);    // CA::input(&obj1, 10, 20);
+-----------------------------------------------------------
+CONSTRUCTORS & DESTRUCTOR METHODS:-
+
+CONSTRUCTORS:
+	
+	- These are special member functions, if present in the class would get automatically called by an object at time of object's construction or creation phase. Hence, the name CONSTRUCTOR.
+
+	- These special member functions take the same name as that of the class.
+
+	- These can also be overloaded
+
+Note: Prefer to introduce these methods when you have something very important business that must be accomplished at the time of object creation or construction.
+
+DESTRUCTOR:
+	This method if exists in the class would get automatically by an object at the time of object's destruction or de-allocation phase. Hence, the name DESTRUCTOR method.
+
+	- This method also takes the same name as that of the class, prefixed with a '~' tilde symbol.
+
+	- And, this method cannot be overloaded.
+
+
+
+NOTE: Prefer to introduce this method, when you have something important to accomplish when an object is about to get destructed or de-allocated.
+
+-------------------------------------------------------------------------------
+
+const int a=100;          //initialization
+
+
+***********************
+const int a;  //ERROR
+//..
+a=100;         //assignment
+
+	- Any business attempted during the business-logic phase of a constructor call is rather an ASSIGNMENT and not true INITIALIZATION.
+
+	- If true initialization on an objects data has to be achieved, then such a business must be attempted during the PROLOG phase of the constructor.
+
+	 With the help of constructor initializer or initialization list we can achieve the same.
+----------------------------------------
+
+int a;             &a    ==>int*    ==> pointer to a read-write integer
+
+const int a=100;   &a   ==> const int*   ==> pointer to a read-only integer
+
+CA obj1;           &obj1  ==> CA*   ==> pointer to a read-write CA kind
+
+const CA obj1;     &obj1  ==> const CA*  ==> pointer to a read-only CA kind
+
+
+class CA
+{
+public:
+   void print();       // void print(CA*  const this);
+};
+
+CA obj1;
+obj1.print();   --> CA::print(&obj1);    --> CA::print(CA*  );    //OK
+
+const CA obj1;
+obj1.print();   --> CA::print(&obj1);    --> CA::print(const CA*  );    //ERROR
+*************************************************************
+
+class CA
+{
+public:
+   void print() const;       // void print(const CA*  const this);
+};
+
+const CA obj1;
+obj1.print();   --> CA::print(&obj1);    --> CA::print(const CA*  );    // OK
+
+--------------------------
+	- A const object will only call const methods or member functions
+
+	- An object that is not const, can call either of the member functions, whether
+          const or not a const.
+
+	- Inside a const method we cannot modify any of the objects data.
+
+	- The qualifier 'const' on the RHS part of the member function declaration cum
+          definition is not applicable for CONSTRUCTORS and DESTRUCTOR methods.
+
+Note: The actual effect of the 'const' qualifier on an const object, takes place only after the EPILOG phase of the CONSTRUCTOR call and the same removed or neutralized during the PROLOG phase of the DESTRUCTOR call.
+
+----------------------------------------------------
+EXPLICIT CONSTRUCTOR:-
+
+If one arg. constructors are NOT explicit
+
+class CA
+{
+public:
+  CA(int)
+  CA(const CA &x);
+};
+
+//--- consumer----
+
+CA obj1=100;    //will call one arg. constr.
+CA obj2(100);   // will call one arg. constr.
+
+CA obj3=obj1;   //will call copy constr.
+CA obj4(obj1);  // will call copy constr.
+------------------------------------------------------
+If one arg. constructors are explicit
+
+class CA
+{
+public:
+  explicit CA(int)
+  explicit CA(const CA &x);
+};
+
+//--- consumer----
+
+CA obj1=100;    //ERROR
+CA obj2(100);   // will call one arg. constr.
+
+CA obj3=obj1;   //ERROR
+CA obj4(obj1);  // will call copy constr.
+----------------------------------------------------------------
+STATIC DATA AND STATIC METHODS:-
+
+
+int main()
+{
+   fun();
+   fun();
+   fun();
+}
+
+
+void fun()
+{
+   int a=10;
+   static int b;
+
+   b = b+a;
+   cout << a << b;
+
+}
+---------------------------------------
+
+//GLOBAL VARIABLES
+
+int a;
+static int b;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

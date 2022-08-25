@@ -1,0 +1,203 @@
+	There are a few operators that cannot be overloaded
+
+	::   scope-resolution operator
+	.    dot operator
+        .*   dot-star operator
+	?:   conditional operator
+
+------------------------------------------------------------
+FUNCTION POINTERS:-
+
+
+void Add(int x, int y){ ...}
+
+void Diff(int x, int y){....}
+
+//....
+
+
+void (*fp)(int, int) = &Add;
+
+(*fp)(10,20);       // Add(10,20);              // fp(10,20);
+
+fp = &Diff;
+
+(*fp)(20,30);      // Diff(20,30);
+--------------------------------------------------
+
+int(*fp1)();
+
+int(*fp2)(float, double);
+
+void(*fp3)();
+--------------------------------------------------
+CLASS TEMPLATES:-
+
+template<typename T> class CA
+{
+private:
+   T a,b;
+public:
+   CA(T);
+   CA(T, T);
+   ~CA();
+   void sum();
+};
+
+
+template<typename T> CA<T>::CA(T x):a(x),b(x){ }
+
+
+template<typename T> CA<T>::CA(T x, T y):a(x).b(y){ }
+
+
+template<typename T> CA<T>::~CA(){ }
+
+
+template<typename T> void CA<T>::sum(){ }
+-------------------------------------------------------------
+NON-TYPE PARAMETERS:-
+
+template<typename T> class CA
+{
+    private:
+         T arr[25];
+};
+
+//---consumer ----
+
+CA<char> obj1;         // its data member  --> char arr[25]
+CA<int> obj2;          // its data member -->  int arr[25]
+*************************************
+
+template<typename T, int SIZE> class CA
+{
+    private:
+         T arr[SIZE];
+};
+
+
+CA<char, 30> obj1;  //   --> char arr[30]
+CA<int, 50> obj2;   //   --> int  arr[50]
+-------------------------------------------------------
+STL (Standard Template library):-
+
+1) CONTAINER CLASSES:
+	a) SEQUENCE CONTAINERS:  stack, queue, list etc.,
+	b) ASSOCIATIVE CONTAINERS: map, multimap, pair etc.,
+
+2) ITERATOR CLASSES:
+	These are classes whose object's would behave and act like pointers to the info or data contained in a container class object.
+
+3) ALLOCATOR CLASSES:
+	It is the object's of this class which incidentally acts as one of the data members of all containers classes, helps in heap memory management for the values that get populated into these containers.
+
+
+4) ALGORITHMS:	
+	These are global utility functions. Very handy under circumstances when we want to achieve certain non-standard or custom businesses on the data held inside a container class object.
+-------------------------------------
+
+template<typename T> class list
+{
+   friend class iterator;
+private:
+  //..
+public:
+  //...
+
+
+  class iterator
+  {
+    private:
+       //..
+    public:
+       //...
+  };
+};
+
+list<int> ls1;
+list<int>::iterator itr;
+--------------------------------------------
+template<typename T> class Allocator
+{
+public:
+   void Allocate();
+   void deallocate();
+   //...
+};
+
+
+template<typename T1, typename T2=Allocator<T1>> class list
+{
+private:
+   T1 data;           // int data;
+   T2 pointee;        // Allocator<int> pointee;
+   //...
+
+};
+
+
+list<int> ls1;         //list<int, Allocator<int>> ls1;
+
+-----------------------------------------------
+template<typename T> class MyAllocator
+{
+  private:
+    //...
+  public:
+    void Allocate()
+    {
+       //custom allocation business
+    }
+   void deallocate
+   {
+       //custom deallocation business
+   }
+};
+
+
+list<int, MyAllocator<int>> ls1;
+-----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
